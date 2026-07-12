@@ -1,5 +1,2 @@
-transformers>=4.35.0
-peft>=0.6.0
-langchain>=0.1.0
-faiss-cpu>=1.7.0
-numpy>=1.21.0
+numpy>=1.26,<3
+scikit-learn>=1.4,<2

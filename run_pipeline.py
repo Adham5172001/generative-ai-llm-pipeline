@@ -135,4 +135,4 @@ if __name__ == "__main__":
     print("\n[4/4] Model Benchmark:")
     benchmark_models()
     
-    print("\n✓ Demo complete!")
+    print("\nDemo complete!")
