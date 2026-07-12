@@ -1,5 +1,7 @@
 # Generative AI & LLM Pipeline
 
+> **Maturity: offline educational prototype.** The demo uses local configuration objects, a small deterministic retrieval example, and illustrative benchmark values. It does not fine-tune a real LLM or reproduce the performance and hallucination-reduction claims below.
+
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface)](https://huggingface.co)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
